@@ -1,0 +1,27 @@
+Historia
+
+En una noche tranquila y oscura, cuando el silencio lo cubre todo y Gravity Falls parece dormir, una extraña luz parpadeante te despierta de repente. No se parece a nada que hayas visto antes. No aparece en el diario, no hay registros, ni advertencias, ni pistas sobre su origen. Es como si el propio bosque intentara llamar tu atención… o advertirte.
+
+A partir de ese momento, comienza una noche llena de decisiones. Cada paso que das, cada elección que tomas, puede acercarte a la seguridad… o empujarte directo hacia un peligro desconocido. Nada es lo que parece, y en las sombras se esconden secretos que llevan años esperando ser descubiertos.
+
+La luz cada vez brilla mas, estas mas y mas cerca, llegando hacia lo desconocido. ¿Es una señal de ayuda o una trampa cuidadosamente preparada? El tiempo corre, y la curiosidad puede ser tan peligrosa como el miedo.
+
+¿Te atreves a adentrarte en esta aventura?
+¿A dónde te llevará esa misteriosa luz?
+¿Qué nuevos secretos y horrores se esconden en Gravity Falls?
+
+La noche apenas comienza…
+
+
+Proceso
+
+Este proyecto fue un gran desafío para nosotras, en el cual obtuvimos grandes aprendizajes. 
+comenzamos a crear la aventura grafica luego de seleccionar la serie animada que nos gustase a ambas.
+Creamos el diagrama de flujo en donde las decisiones te llevan a recorrer toda la historia pero con tres finales diferentes, unos bueno, uno malo y uno neutro.
+Empezamos a programar en p5.js, conectando las pantallas según las decisiones. 
+Luego creamos las imágenes con IA y también algunas imágenes las sacamos de la misma serie animada.
+
+Equipo 
+
+Campos Salazar Florencia 94790/7
+Fernandez Yamila Abigail 119024/1
